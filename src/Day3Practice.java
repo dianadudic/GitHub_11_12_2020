@@ -3,6 +3,7 @@ public class Day3Practice {
         System.out.println("What is Cocomelon?");
         //this is interesting
         //but I wish we are moving faster
-        //Git is very importatn
+        //Git is very important
+        System.out.println("Pay attention on your head!");
     }
 }
