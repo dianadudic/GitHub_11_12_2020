@@ -4,5 +4,6 @@ public class Main {
         //working on branch
         //and observing the head
         System.out.println("B21 should pay more attention!");
+        //if you do your homework and listen during the class it is not TO FAST
     }
 }
